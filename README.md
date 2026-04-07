@@ -17,13 +17,13 @@
 > *"Practice is the hardest part of learning, and training is the essence of transformation."*
 > — Ann Voskamp
 
-**[📖 Browse Topics](#-folder-structure) · [🚀 Get Started](#-getting-started) · [🤝 Contribute](#-contributing) · [💬 Discuss](https://github.com/vinodbavage31/Python-Practice/discussions)**
+**[📖 Browse Topics](#-folder-structure) · [Get Started](#-getting-started) · [Contribute](#-contributing) · [Discuss](https://github.com/vinodbavage31/Python-Practice/discussions)**
 
 </div>
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 
 **Python Practice Hub** is a free, open-source collection of structured practice problems, mini-projects, and notes covering the full Python learning journey — from environment setup all the way to interview preparation and real-world libraries.
 
@@ -33,11 +33,11 @@ Whether you're just starting out or sharpening your skills for a technical inter
 
 | Feature | Description |
 |---|---|
-| 📂 **Structured Curriculum** | 15 topic folders following a logical learning progression |
-| 💡 **Practice-First** | Every concept paired with exercises you can run immediately |
-| 🧩 **Real Projects** | Applied mini-projects to cement your knowledge |
-| 🎯 **Interview Ready** | Dedicated section for common Python interview questions |
-| 🌍 **Community Driven** | Open-source and welcomes contributions from all skill levels |
+| **Structured Curriculum** | 15 topic folders following a logical learning progression |
+|  **Practice-First** | Every concept paired with exercises you can run immediately |
+| **Real Projects** | Applied mini-projects to cement your knowledge |
+| **Interview Ready** | Dedicated section for common Python interview questions |
+| **Community Driven** | Open-source and welcomes contributions from all skill levels |
 
 ---
 
