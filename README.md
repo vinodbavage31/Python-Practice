@@ -107,7 +107,7 @@ git --version      # Should show git version
 
 ---
 
-### 📥 Cloning the Repository
+### Cloning the Repository
 
 **Option 1 — Clone via HTTPS (recommended for beginners)**
 
@@ -156,7 +156,7 @@ pip install -r requirements.txt
 
 ---
 
-### ▶️ Running Practice Files
+###  Running Practice Files
 
 Navigate into any topic folder and run the Python files:
 
