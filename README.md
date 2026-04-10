@@ -17,7 +17,7 @@
 > *"Practice is the hardest part of learning, and training is the essence of transformation."*
 > — Ann Voskamp
 
-**[📖 Browse Topics](#-folder-structure) · [Get Started](#-getting-started) · [Contribute](#-contributing) · [Discuss](https://github.com/vinodbavage31/Python-Practice/discussions)**
+**[ Browse Topics](#-folder-structure) · [Get Started](#-getting-started) · [Contribute](#-contributing) · [Discuss](https://github.com/vinodbavage31/Python-Practice/discussions)**
 
 </div>
 
