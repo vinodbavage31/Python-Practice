@@ -84,7 +84,7 @@ Python-Practice/
                                           13_projects → 14_interview_practice
 ```
 
-> 💡 **Tip:** Follow the numbered folders in order if you're a beginner. If you're intermediate, jump to any topic you need to reinforce.
+>  **Tip:** Follow the numbered folders in order if you're a beginner. If you're intermediate, jump to any topic you need to reinforce.
 
 ---
 
