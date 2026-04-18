@@ -70,7 +70,7 @@ Python-Practice/
 
 ---
 
-## 🗺️ Learning Roadmap
+##  Learning Roadmap
 
 ```
 [ Beginner ]──────────────────────────────────────────────────── [ Advanced ]
